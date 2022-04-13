@@ -8,6 +8,7 @@ import me.PhilosophyWithJosh.popupMobs.Main;
 
 public class blockListener implements Listener
 {
+	@SuppressWarnings("unused")
 	private Main plugin;
 	
 	public blockListener(Main plugin)
