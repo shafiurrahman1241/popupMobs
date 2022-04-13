@@ -1,0 +1,6 @@
+name: popupMobs
+author: PhilosophyWithJosh
+version: 1.0.0
+main: me.PhilosophyWithJosh.popupMobs.Main
+api-version: 1.16
+description: causes different mobs to spawn upon stepping on different blocks
